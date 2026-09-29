@@ -8,7 +8,7 @@ workflows:
           XCODE_WORKSPACE: "358NexalynEchoMap.xcworkspace"
           XCODE_SCHEME: "358NexalynEchoMap"
           BUNDLE_ID: "com.dav.n3xl1cl4rt"
-          APP_STORE_APP_ID: 6756367614
+          APP_STORE_APP_ID: 6809477101
         xcode: latest
         cocoapods: 1.14.2
       scripts:
